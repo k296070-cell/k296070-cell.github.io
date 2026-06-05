@@ -9,7 +9,6 @@ profile:
   images:
     - prof1.jpg
     - prof2.jpeg
-    - prof5_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>hojoon.kim@snu.ac.kr</p>
