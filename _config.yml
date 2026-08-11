@@ -9,7 +9,7 @@ last_name: Kim
 contact_note: >
   Feel free to contact me at hojoon.kim@snu.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Undergraduate student at Seoul National University, researching Machine Learning Systems, LLM Optimization, and Computer Architecture.
+  M.S. student at Seoul National University, researching Machine Learning Systems, Hardware-Software Co-Design, and Energy-Efficient AI.
 footer_text: >
   Feel free to contact me at hojoon.kim@snu.ac.kr
 keywords: Computer Architecture, Machine Learning Systems, Hardware Acceleration, HW/SW Co-design # add your own keywords or leave empty

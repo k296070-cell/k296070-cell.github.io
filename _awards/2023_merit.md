@@ -5,4 +5,4 @@ place: Seoul, Republic of Korea
 inline: true
 ---
 
-Since August 2023, I’ve been receiving a `merit-based tuition scholarship` every semester from the Department of Electrical and Computer Engineering at Seoul National University.
+From August 2023 to June 2025, I received a `merit-based tuition scholarship (70% of tuition)` every semester from the Department of Electrical and Computer Engineering at Seoul National University.
