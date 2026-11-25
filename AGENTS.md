@@ -16,5 +16,6 @@ Personal academic website built on the al-folio Jekyll theme. GitHub Actions dep
   - Bib keys follow `<first-author-lastname><venue-year><name>`, e.g. `kim2026agenticcache`.
   - Papers under review stay hidden inside `@comment{ ... }` blocks; unwrap them and set the venue once accepted.
   - Only first-author papers get `selected = {true}` (shown on the homepage).
-- News: one file per item in `_news/` (`layout: post`, `inline: true`, `date:`). Acceptances are announced there.
+- News: one file per item in `_news/` (`layout: post`, `inline: true`, `date:`). Keep only a few key milestones (at most 3, so the homepage news box
+  has no scroll bar); less central items such as the DATE'27 QUESO acceptance or contest prizes stay on the Publications page and CV only.
 - CV: `assets/pdf/Hojoon_Leo_Kim_CV.pdf` is a compiled LaTeX PDF whose source is not in this repo; update the source elsewhere and replace the PDF.
